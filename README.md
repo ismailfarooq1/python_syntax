@@ -1,2 +1,2 @@
 # python_syntax
-Just some basic Python syntax
+A basic calucator made with Python. Just a starter!
